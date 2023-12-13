@@ -1,0 +1,1 @@
+Novel views rendered at each training epoch will be saved here.

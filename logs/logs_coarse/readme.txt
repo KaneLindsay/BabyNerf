@@ -1,0 +1,1 @@
+Tensorboard logs of the coarse network loss will be saved here.

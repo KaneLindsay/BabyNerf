@@ -1,0 +1,1 @@
+Coarse network weight checkpoints will be saved here.
